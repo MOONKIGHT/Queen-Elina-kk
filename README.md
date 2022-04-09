@@ -64,7 +64,7 @@ Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil&theme=nightowl)](https://github.com/terror-boy/WhiteDevil)
   </div>
     
-# Setup
+# Setup.
 <div align="center">
   
 ## SIMPLE METHOD THROUGH TERMUX JUST COPY THE FULL LINE AND PASTE IN TERMUX & SCAN THE CODE IF ANY ERROR PLS CONTACT FAST ....
