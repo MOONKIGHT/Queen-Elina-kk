@@ -156,7 +156,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ WHITE DEVIL working!')
+            chalk.green.bold('✅ QUEEN-ELINA working!')
        );
         
          if (config.LANG == 'EN') {
