@@ -1,11 +1,11 @@
 {
-    "name": "WhiteDevil Bot Created by Karthik_terror-boy",
-    "description": "WhiteDevil- Whatsapp UserBot",
+    "name": "Queen-Elina",
+    "description": "Queen-Elina- Whatsapp UserBot",
     "logo": "https://i.imgur.com/kB30S41.png",
-    "keywords": ["whatsapp", "userbot", "White", "WhatsAsena", "bot", "whitedevil", "ai","terror-boy"],
-    "repository": "https://www.github.com/terror-boy/WhiteDevil",
-    "website":   "https://www.github.com/terror-boy/WhiteDevil",
-    "success_url": "https://www.github.com/terror-boy",
+    "keywords": ["whatsapp", "userbot", "Elina", "Saduwa", "bot", "Quuen-Elina", "ai","Saduwa-boy"],
+    "repository": "https://github.com/Sandun-Mihiranga2/Queen-Elina",
+    "website":   "https://github.com/Sandun-Mihiranga2/Queen-Elina",
+    "success_url": "https://github.com/Sandun-Mihiranga2",
     "stack": "container",
     "env": {
         "WHITE_SESSION": {
