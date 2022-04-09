@@ -14,7 +14,7 @@ async function whatsAsena() {
   conn.logger.level = 'warn';
   conn.version = [3, 3234, 9]
   const rows = [
- {title: 'Whitedevil bot support group:-', description: "\n\n*https://chat.whatsapp.com/KDT4Q5F4zq99ubruR5T9k1*", rowId:"wd1"},
+ {title: 'Queen-Elina bot support group:-', description: "\n\n*https://chat.whatsapp.com/KDT4Q5F4zq99ubruR5T9k1*", rowId:"wd1"},
  {title: 'Password in heroku:-', description: "\n\n• whitedevil\n• Whitedevil\n\n\n```you can take any one```", rowId:"wd2"},
  {title: 'All bot support group:-', description: "\n\n*https://chat.whatsapp.com/CY7wJC070o04yxfTuT1yPf*", rowId:"wd3"}
 ]
@@ -23,7 +23,7 @@ const sections = [{title: "please check it", rows: rows}]
 
 const button = {
  buttonText: 'Click Me Here!',
- description: "*Hello,Thank you for using Whitedevil*\n\n ```please check it```",
+ description: "*Hello,Thank you for using Queem-Elina*\n\n ```please check it```",
  sections: sections,
  listType: 1
 }
@@ -37,7 +37,7 @@ ${chalk.blue.bold('ℹ️  Connecting WhiteDevil... Please wait.')}`);
 
   conn.on('open', async () => { 
     console.log(
-      chalk.green.bold('WHITEDEVIL QR Code: '),
+      chalk.green.bold('QUEEN-ELINA QR Code: '),
       'WHITE;;;' +
       Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
         'base64'
